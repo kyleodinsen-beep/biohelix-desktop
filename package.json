@@ -1,0 +1,1 @@
+{"name": "biohelix-desktop", "version": "1.0.0", "main": "main.js", "scripts": { "start": "electron .", "build": "electron-builder" }, "dependencies": { "react": "^17.0.2", "react-dom": "^17.0.2", "electron": "^16.0.0", "openai": "^3.1.0", "html-pdf": "^3.0.1", "pdfkit": "^0.12.1", "mathjs": "^10.0.0" }, "devDependencies": { "electron-builder": "^22.11.7" } }
